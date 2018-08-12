@@ -1,3 +1,14 @@
 div.Menu{
-  background-color: black;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.Menu ul li{
+  list-style-type: none;
+  margin-bottom: 5px;
+  border-left: solid 7px red;
+}
+div.Menu ul li:hover{
+  border-left: solid 7px green;
+  cursor: pointer;
 }
