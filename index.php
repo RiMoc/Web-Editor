@@ -14,20 +14,28 @@
         background-position: left top;
         background-attachment: fixed;
         background-size: cover;
-
       }
     </style>
   </head>
   <body>
+
     <div class="title">
-      PN Shop
+      PN Shop พีเอ็น ช็อป
     </div>
+
     <div class="Menu">
-        <ul>
-          <li>Home Page</li>
-          <li>Products</li>
-          <li>Profile</li>
-        </ul>
+      <button>หน้าหลัก</button>
+      <button>สินค้า</button>
+      <button>จ่ายบิล</button>
+      <button style="float:right;">เข้าสู่ระบบ</button>
     </div>
+
+    <div class="List">
+
+      <div class="ul-list">
+      </div>
+
+    </div>
+
   </body>
 </html>
